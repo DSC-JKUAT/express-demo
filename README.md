@@ -24,7 +24,8 @@ npm install
 SET DEBUG=express-locallibrary-tutorial:* & npm start  #Windows
 DEBUG=express-locallibrary-tutorial:* npm start #Linux and MacOS
 ```
-Load [http://localhost:3000/ ](http://localhost:3000/ ) on your browser:
+Load [http://localhost:3000/user/name ](http://localhost:3000/user/name) on your browser:
+*add your name or random string where`name` is placed
 
 To enable server restart on file changes, install nodemon as a development dependency:
 ```
